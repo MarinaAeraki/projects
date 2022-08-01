@@ -1,1 +1,1 @@
-# projects
+# Example of README
